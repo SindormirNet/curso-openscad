@@ -4,6 +4,10 @@
 
 Mas info: https://sindormir.net/curso-openscad
 
+## Información
+
+OpenSCAD es una potente herramienta de diseño en 3D paramétrico muy utilizado en diseño de piezas técnicas. Su forma de definir los modelos 3D es mediante código escrito, con similitudes al lenguaje C. Este curso presenta de una forma sencilla, clara y didáctica las diferentes características de OpenSCAD y permite al alumno dominar las técnicas básicas mediante varios ejercicios que se realizarán durante el mismo.
+
 ## Temario:
 
 
